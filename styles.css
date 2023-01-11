@@ -1,11 +1,11 @@
 .Accio#Job{
 	width: 150px ;
 	height: 150px ;
-	background: black ;
+	background: rgb(0,0,0) ;
 		}
 .hello-accio-job{
 	margin-left: 32px;
-	padding: 10 px;
+	padding: 10px;
 	color: white ;
 }
 
